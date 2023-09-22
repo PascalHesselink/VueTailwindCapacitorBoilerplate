@@ -1,4 +1,4 @@
-# VueTailwind Cordova Boilerplate
+# VueTailwind Capacitor Boilerplate
 
 Boilerplate for Tailwind, Vue, Sass, and Capacitor to quickly create applications
 
